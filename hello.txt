@@ -4,3 +4,6 @@ hi
 hru
 APPLE
 ORANGE
+Arifa
+banana 
+apple
