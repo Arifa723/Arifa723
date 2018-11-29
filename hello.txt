@@ -2,3 +2,5 @@
 
 hi
 hru
+APPLE
+ORANGE
